@@ -18,6 +18,9 @@ Think of me as a CSL drafting assistant. I can take the journal's instructionsâ€
 
 ..snip..
 
+
+# find them at https://github.com/bsuryobroto/csl
+
 > here is the instruction from Hayati Journal of Biosciences
 > https://journal.ipb.ac.id/index.php/hayati/AuthorsGuideline
 

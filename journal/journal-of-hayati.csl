@@ -7,11 +7,13 @@
     <link href="http://www.zotero.org/styles/journal-of-hayati" rel="self"/>
     <link href="https://journal.ipb.ac.id/index.php/hayati/AuthorsGuideline" rel="documentation"/>
     <author>
-      <name>Bambang Suryobroto..assisted by glm-4.6 on Ollama</name>
+      <name>Bambang Suryobroto</name>
+      <email>bsuryobroto@gmail.com</email>
+      <email>suryobroto@apps.ipb.ac.id</email>
     </author>
     <category citation-format="author-date"/>
     <category field="science"/>
-    <summary>The author-date style for the HAYATI Journal of Biosciences, based on its author guidelines. Note: There were contradictory examples in the guidelines; this file prioritizes the most detailed examples. Contact suryobroto@apps.ipb.ac.id or bsuryobroto@gmail.com.</summary>
+    <summary>The author-date style for the HAYATI Journal of Biosciences, based on its author guidelines. Note: There were contradictory examples in the guidelines; this file prioritizes the most detailed examples. Assisted by glm-4.6 on Ollama.</summary>
     <updated>2023-10-27T11:30:00+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>

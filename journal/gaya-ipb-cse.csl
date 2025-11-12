@@ -7,11 +7,13 @@
     <link href="http://www.zotero.org/styles/ipb-cse" rel="self"/>
     <link href="https://repository.ipb.ac.id/jurnal/browse" rel="documentation"/>
     <author>
-      <name>Bambang Suryobroto..assisted by glm-4.6 on Ollama</name>
+      <name>Bambang Suryobroto</name>
+      <email>bsuryobroto@gmail.com</email>
+      <email>suryobroto@apps.ipb.ac.id</email>
     </author>
     <category citation-format="author-date"/>
     <category field="science"/>
-    <summary>Gaya kutipan berdasarkan Pedoman Penulisan Karya Ilmiah IPB Edisi 4 2019, yang mengacu pada CSE edisi 8. Semua inisial tanpa titik, antara penulis dan tahun ada titik. Contact suryobroto@apps.ipb.ac.id or bsuryobroto@gmail.com</summary>
+    <summary>Gaya kutipan berdasarkan Pedoman Penulisan Karya Ilmiah IPB Edisi 4 2019, yang mengacu pada CSE edisi 8. Semua inisial tanpa titik, antara penulis dan tahun ada titik. Assisted by glm-4.6 on Ollama.</summary>
     <updated>2023-10-27T16:00:00+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
