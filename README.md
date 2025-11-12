@@ -2,7 +2,7 @@
 
 ..choose your style..[find them in folder `journal`]
 - `journal-of-hayati.csl`
-  - based on instruction from https://journal.ipb.ac.id/index.php/hayati/AuthorsGuideline
+  - based on instruction from Hayati Journal of Biosciences in https://journal.ipb.ac.id/index.php/hayati/AuthorsGuideline
 - `gaya-ipb-cse.csl`
   - based on Pedoman Penulisan Karya Ilmiah Tugas Akhir Mahasiswa Edisi Ke-4
     - PT Penerbit IPB Press
