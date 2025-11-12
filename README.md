@@ -1,10 +1,24 @@
 # ..citation styles..
 
-### convo with glm-4.6 in ollama..
+..choose your style..[find them in folder `journal`]
+- `journal-of-hayati.csl`
+  - based on instruction from https://journal.ipb.ac.id/index.php/hayati/AuthorsGuideline
+- `gaya-ipb-cse.csl`
+  - based on Pedoman Penulisan Karya Ilmiah Tugas Akhir Mahasiswa Edisi Ke-4
+    - PT Penerbit IPB Press
+    - Cetakan 1, Desember 2019
+  - https://kmmai.ipb.ac.id/buku-pedoman-penulisan-karya-ilmiah-tugas-akhir-mahasiswa-edisi-ke-4/
+
+## how did i make them..?
+- read `journal-of-hayati_story.md`
+
+## problem when using in mendeley..?
+
+### convo with glm-4.6:cloud in ollama..
 
 ---
 
-> ..the styles work perfectly..! i upload the two styles to my github..but when mendeley 2.139 ask for url..it throw an error "Custom citation style is malformed"..
+> ..the styles work perfectly..! i upload the two styles to my github..but when mendeley 2.139 [in `word` plugin] ask for url..it throw an error "Custom citation style is malformed".
 
 
 Excellent! I'm glad the styles work perfectly for you.
