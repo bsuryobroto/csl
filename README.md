@@ -2,6 +2,46 @@
 
 ### convo with glm-4.6 in ollama..
 
+---
+
+> ..the styles work perfectly..! i upload the two styles to my github..but when mendeley 2.139 ask for url..it throw an error "Custom citation style is malformed"..
+
+
+Excellent! I'm glad the styles work perfectly for you.
+
+That "Custom citation style is malformed" error from Mendeley is very common and frustrating. The good news is that it's almost never an issue with the **content of your `.csl` file**, especially since we've already tested and confirmed it works. The error is almost always related to **how GitHub serves the file**.
+
+Mendeley is very picky. It expects the file to be a pure XML file, served from a direct, raw URL. When you just link to a file on a GitHub repository page, GitHub often wraps it in its own web interface or sends it with the wrong `Content-Type` header, which confuses Mendeley.
+
+### The Solution: Use the "Raw" URL
+
+To fix this, you must give Mendeley the **direct, raw link** to the file's content.
+
+**How to Get the Raw URL:**
+
+1.  Go to your file on GitHub. For example: `https://github.com/[YourUsername]/[YourRepo]/blob/main/[YourStyleName].csl`
+2.  Look for the button in the top-right corner of the file view that says **"Raw"**.
+3.  Click that "Raw" button.
+
+This will take you to a new URL that looks something like this:
+`https://raw.githubusercontent.com/[YourUsername]/[YourRepo]/main/[YourStyleName].csl`
+
+**This is the URL you must copy and paste into Mendeley.**
+
+---
+
+### Step-by-Step for Mendeley
+
+1.  In Mendeley Desktop, go to `Tools` -> `Options` -> `Citation Styles`.
+2.  Click the "Get More Styles" button.
+3.  In the new window, click the "Install CSL" tab (looks like a file icon).
+4.  Paste the **raw URL** you copied from GitHub into the box that says `From URL`.
+5.  Click "Download".
+
+Mendeley should now download and install the style without any errors. The same rule applies to Zotero and any other reference manager: always use the "Raw" GitHub URL for installing CSL files.
+
+Let me know if that solves the problem
+
 > ..it's okay for mendeley desktop..but still threw the same error in mendeley plugin in word..
 
 Ah, that's a classic and very frustrating problem with the Mendeley Word plugin. The plugin and the desktop app sometimes have a "disconnect" and don't sync styles properly.
